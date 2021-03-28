@@ -44,10 +44,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js][nodejs], [Yarn][Yarn]. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🎲 Rodando o Back End (servidor)
 
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🧭 Rodando a aplicação
 
 ```bash
 # Clone este repositório
