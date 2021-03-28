@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="page-transition" title="page-transition" src="https://i.imgur.com/56TN8t5.png" />
+    <img alt="page-transition" title="page-transition" src="https://i.imgur.com/P3CAy1i.png" />
 </h1>
 
 <p align="center">
