@@ -4,7 +4,7 @@ import Link from 'next/link'
 export default function FramerMotionPage() {
   return (
     <div className="flex flex-col items-center">
-      <motion.img src="/img/framermotion.svg" className="w-full h-full" layoutId="framermotion-logo"  />
+      <motion.img src="/img/framermotion.svg" className="" layoutId="framermotion-logo"  />
 
 
       <motion.div
@@ -16,7 +16,7 @@ export default function FramerMotionPage() {
 
         <Link href="/" >
 
-          <a className="bg-gray-900 text-gray-500 px-6 py-3 font-semibold rounded-xl hover:bg-gray-700 ">
+          <a className="bg-gray-900 text-gray-300 px-6 py-3 font-semibold rounded-xl hover:bg-gray-700 ">
             Voltar para a home
           </a>
         </Link>
